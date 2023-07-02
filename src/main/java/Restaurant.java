@@ -69,4 +69,9 @@ public class Restaurant {
         return name;
     }
 
+    public int getOrderValue(String...menu_items)
+    {
+        return 0;
+    }
+
 }
